@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Russo+One&display=swap&subset=latin-ext');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+h1, h2, h3 {
+	font-family: 'Russo One', sans-serif;
+	font-weight: bold;
+}
+
+body {
+	font-family: "Montserrat";
+	font-size: 18px;
+	background-color: rgb(25,25,30);
+	color: white;
+}		

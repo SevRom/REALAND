@@ -1,0 +1,17 @@
+.btn-blue {
+	background:rgb(0, 112, 249);
+	color:white;
+	text-decoration:none;
+	border-radius: 4px;
+	padding: 15px 20px;
+	font-family:'Russo One', sans-serif;
+}
+
+.btn-blue:hover {
+	background:rgb(64,200,197);
+}
+
+.buttontext {
+	margin-bottom: 40px;
+}
+	
